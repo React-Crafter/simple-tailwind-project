@@ -1,0 +1,38 @@
+[
+    {
+        "id" : 1,
+        "title": "Front End Development",
+        "img": "/img/frontEnd (1).png",
+        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum, a!"
+    },
+    {
+        "id" : 2,
+        "title": "Back End Development",
+        "img": "/img/backEnd.png",
+        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum, a!"
+    },
+    {
+        "id" : 3,
+        "title": "JavaScript Complite Course",
+        "img": "/img/javascript.png",
+        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum, a!"
+    },
+    {
+        "id" : 4,
+        "title": "React.js Complite Course",
+        "img": "/img/react-js.png",
+        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum, a!"
+    },
+    {
+        "id" : 5,
+        "title": "Next.js Complite Course",
+        "img": "/img/nextjs.png",
+        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum, a!"
+    },
+    {
+        "id" : 6,
+        "title": "MongoDb for Your Database",
+        "img": "/img/mongo.png",
+        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum, a!"
+    }
+]
