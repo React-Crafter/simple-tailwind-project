@@ -7,7 +7,7 @@ function Heroaria() {
             <div className='container w-full mx-auto text-center lg:border border-indigo-600 lg:h-[85vh] border-t-0 mb-4 lg:py-20 px-10  text-white sm:flex justify-around items-center'>
                 <div className='flex-1'>
                     <h1 className='text-2xl mb-5 md:text-3xl sm:mb-16'>
-                        Smart Coders: Learn <br />
+                        Mth programmer: Learn <br />
                         Programming
                     </h1>
                     <button className='bg-indigo-900 transition py-3 px-5 md:px-10 md:py-3 shadow-xl rounded-full text-sm
