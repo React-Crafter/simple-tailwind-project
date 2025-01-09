@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Mth programmer - Netlify",
-  description: "Mth programmer - Netlify",
+  title: "Mth programmer",
+  description: "Mth programmer",
 };
 
 export default function RootLayout({ children }) {
