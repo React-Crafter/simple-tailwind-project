@@ -1,6 +1,7 @@
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import Navbar from "./components/Navbar/Navbar";
+import Card from "./components/Card/Card";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -21,6 +22,12 @@ export const metadata = {
     description: "5jeID43bO9CSfnp_p8PVb4BSmxA1aRZEAZajyRx8j8E",
     images: ["img/hero-img.png"],
     url: "https://mth-programmer.netlify.app/"
+  },
+  twitter: {
+    title: "Mth programmer",
+    description: "5jeID43bO9CSfnp_p8PVb4BSmxA1aRZEAZajyRx8j8E",
+    images: ["img/hero-img.png", "img/frontEnd (1).png"],
+    card: "summary_large_image",
   }
 };
 
